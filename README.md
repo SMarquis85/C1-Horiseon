@@ -1,2 +1,2 @@
 # C1-Horiseon
-Challenge 1 - Boot Camp 
+Marketing Agency wants to rrefactor an existing website and make it more accessible.
