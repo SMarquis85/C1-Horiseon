@@ -4,9 +4,10 @@
     margin:0
     }
     
-    /* ffffff was changed to fff.*/
+    
     .benefit-brand {
     margin-bottom:32px;
+    /* ffffff was changed to fff.*/
     color:#fff
     }
     
@@ -201,15 +202,18 @@
     }
     
     a {
-    /* ffffff was changed to fff. */
+    /* ffffff was changed to fff. 
+    Style rules for all a tags in the document.*/
     color:#fff;
     text-decoration:none
     }
     
     body {
+    /* Style rules for all body tags in the document.*/
     background-color:#d9dcd6
     }
     
-    p {
+    p { 
+    /* Style rules for all p tags in the document. */
     font-size:16px
     }
