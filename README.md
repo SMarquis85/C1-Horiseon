@@ -31,7 +31,7 @@ THEN I find a concise, descriptive title
 ```
 ## Final Work Review
 
-**"Always leave the code a little cleaner than when you found it."** This action was applied to both HTML and CSS with the help of Google, W3Schools and CSSPortal.Looks cleaner, organised and easier to find what you are looking for. Comments were added in CSS to show where a few changes have been made. (CARL-VIRT-FSF-PT-04-2023, README.md 2023)
+**"Always leave the code a little cleaner than when you found it."** This action was applied to both HTML and CSS with the help of Patrick Meehan(Tutor), Google, W3Schools and CSSPortal. Looks cleaner, organised and easier to find what you are looking for. Comments were added in CSS to show where a few changes have been made. (CARL-VIRT-FSF-PT-04-2023, README.md 2023)
 
 By looking at the picture below, it's easy to identify the reason as to WHY the link is not functioning properly on the website.
 
