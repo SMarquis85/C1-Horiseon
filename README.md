@@ -31,13 +31,13 @@ THEN I find a concise, descriptive title
 ```
 ## Final Work Review
 
-**"Always leave the code a little cleaner than when you found it."** This action was applied to both HTML and CSS. Looks cleaner, organised and easier to find what you are looking for. Comments were added in CSS to show where a few changes have been made.(CARL-VIRT-FSF-PT-04-2023, README.md 2023)
+**"Always leave the code a little cleaner than when you found it."** This action was applied to both HTML and CSS. Looks cleaner, organised and easier to find what you are looking for. Comments were added in CSS to show where a few changes have been made. (CARL-VIRT-FSF-PT-04-2023, README.md 2023)
 
 By looking at the picture below, it's easy to identify the reason as to WHY the link is not functioning properly on the website.
 
 ![image](https://user-images.githubusercontent.com/129988455/235701731-721dd665-a6af-486b-a691-1861d710577f.png)
 
-The id is missing. The **"id attribute defines an identifier which is unique in the document."** In this case, as shown below, after adding the id correctly, the link is functional on the website.(w3schools, 2023)
+The id is missing. The **"id attribute defines an identifier which is unique in the document."** In this case, as shown below, after adding the id correctly, the link is functional on the website. (w3schools, 2023)
 
 ![image](https://user-images.githubusercontent.com/129988455/235702766-4224a1c3-3670-408f-b151-e0aa9357bc12.png)
 
