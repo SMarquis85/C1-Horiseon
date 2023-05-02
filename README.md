@@ -28,7 +28,9 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
-```
+``` 
+> **(User Story and Acceptance Criteria; CARL-VIRT-FSF-PT-04-2023, README.md 2023)** 
+
 ## Final Work Review
 
 **"Always leave the code a little cleaner than when you found it."** This action was applied to both HTML and CSS with the help of Patrick Meehan(Tutor), Google, W3Schools and CSSPortal. Looks cleaner, organised and easier to find what you are looking for. Comments were added in CSS to show where a few changes have been made. (CARL-VIRT-FSF-PT-04-2023, README.md 2023)
