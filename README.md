@@ -43,6 +43,6 @@ The id is missing. The id attribute defines an identifier which is unique in the
 
 Let's not forget that all images we're updated with an alt attribute in HTML. 
 
-The final product can be viewed here: [Link to C1-Horiseon] (https://vscode.dev/github/SMarquis85/C1-Horiseon/blob/a4ff24e935700a5665045ab9809729158f6e19c3/index.html)
+The final product can be viewed here: [C1-Horiseon] (https://vscode.dev/github/SMarquis85/C1-Horiseon/blob/a4ff24e935700a5665045ab9809729158f6e19c3/index.html) 
 
 
