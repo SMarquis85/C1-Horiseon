@@ -29,6 +29,15 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+## Final Review
+
+Always leave the code a little cleaner than when you found it. This action was applied to both 
+html and css. Looks cleaner, organised and easier to find what you are looking for. Comments were
+added in css to show where a few changes have been made.
+
+By looking at the picture below, it is easy to identify the reason as to WHY the link is not 
+functioning properly on the website.
+
 
 
 
