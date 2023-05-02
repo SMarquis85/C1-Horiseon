@@ -38,6 +38,7 @@ added in css to show where a few changes have been made.
 By looking at the picture below, it is easy to identify the reason as to WHY the link is not 
 functioning properly on the website.
 
-(C:\Users\S.NA.THALIE_888\bootcamp\C1-Horiseon\assets\images\HTML error .png)
+![image](https://user-images.githubusercontent.com/129988455/235701731-721dd665-a6af-486b-a691-1861d710577f.png)
+
 
 
